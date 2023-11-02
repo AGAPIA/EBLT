@@ -15,7 +15,7 @@ Make sure to check the [documentation folder](https://github.com/AGAPIA/EBLT/tre
 
 To try a release version to see the overall production capabilities of our framework, download from the following [link](https://drive.google.com/file/d/19W-9tCOzcUm1-E2kU0sTdBUHnyyniQoi/view?usp=sharing), unzip then run the executable in the folder.
 
-The tests that run by default are described in the [annotation file](https://github.com/AGAPIA/EBLT/blob/master/Plugins/Blt/Content/images/AnnotationsExample2.json). 
+The tests that run by default are described in the [annotation file](https://github.com/AGAPIA/EBLT/blob/master/Content/Tests/AnnotationsExample2.json) in the Content/Tests folder from the root of the project. 
 If you open the file you note that there are two cases in there, a TEST and a TUNE case.  A snapshot for TEST from the file mentioned above is given in the picture below. ![alt text](https://github.com/AGAPIA/EBLT/blob/master/Documentation/images/AnnotationsFile2.png?raw=true)
 The concrete use-case of this definition is a general-purpose pathfinding system, trying to start from different positions and getting to a marked location in the level.
 
